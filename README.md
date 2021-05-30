@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 ---
 
-Welcome to my Github Profile. If you curious about me you can check my favorite repository and explore them to your heart content. 
+Welcome to my Github Profile. 
 
-I'm currently learning about the fundamental of frond end development from my local online class.
+If you curious about me you can check my pinned repository and explore them to your heart content. 
 
-I'm looking to collaborate on web ui project with designer 
-I'm interested to translate English documentation to Indonesia.
+I'm currently learning about the fundamental of front end development from online class.
+
+I'm looking to collaborate on web ui design into responsive website.
+I'm interested to translate on documentation about website tools and language from English to Indonesian.
 
 My Social Media
-Instagram
+Instagram 
 Twitter
 
 My Skill
